@@ -13,6 +13,11 @@ I try to share my coding jounrey on [Twitter](https://twitter.com/JaspalSCodes) 
 I am improving my online presence by sharing my knowledge in [blogs](https://jaspalscodes.hashnode.dev/) . I'm also looking forward to share my knowledge 
 with newbie coders. 
 
+---
+🧰 Toolbox
+
+ <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="50px" height="50px"> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="50px" height="50px"> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50px" height="50px"> <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" alt="Tailwind CSS" width="50px" height="50px"> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="React" width="50px" height="50px"> <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node" width="50px" height="50px"> <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" alt="Express" width="50px" height="50px"> <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="50px" height="50px"> <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="50px" height="50px"> <img src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original-wordmark.svg" alt="yarn" width="50px" height="50px"> <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="git" width="50px" height="50px">
+
 <!--
 **JaspalSingh1998/JaspalSingh1998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
