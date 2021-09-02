@@ -23,11 +23,11 @@ with newbie coders.
 📘 Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Difference between undefined and null](https://jaspalscodes.hashnode.dev/difference-between-undefined-and-null)
 - [Top 5 JavaScript Array Methods 🔥](https://jaspalscodes.hashnode.dev/top-5-javascript-array-methods)
 - [LocalStorage vs SessionStorage](https://jaspalscodes.hashnode.dev/localstorage-vs-sessionstorage)
 - [JavaScript and Hoisting](https://jaspalscodes.hashnode.dev/javascript-and-hoisting)
 - [Why should you validate your forms?](https://jaspalscodes.hashnode.dev/why-should-you-validate-your-forms)
-- [Deploy your Vue application using Vercel](https://jaspalscodes.hashnode.dev/deploy-your-vue-application-using-vercel)
 <!-- BLOG-POST-LIST:END -->
 
 [▶... more articles](https://jaspalscodes.hashnode.dev/)
