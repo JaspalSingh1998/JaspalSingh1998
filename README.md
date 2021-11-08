@@ -24,7 +24,7 @@ with newbie coders.
 
 <!-- BLOG-POST-LIST:START -->
 - [RegEx in JavaScript with a cool project 🔥](https://jaspalscodes.hashnode.dev/regex-in-javascript-with-a-cool-project)
-- [Higher Order Function & Pure Functions in JavaScript.](https://jaspalscodes.hashnode.dev/higher-order-function-and-pure-functions-in-javascript)
+- [Higher Order Function &amp; Pure Functions in JavaScript.](https://jaspalscodes.hashnode.dev/higher-order-function-and-pure-functions-in-javascript)
 - [Props and State in React](https://jaspalscodes.hashnode.dev/props-and-state-in-react)
 - [Data Visualization Using Chartjs and JavaScript](https://jaspalscodes.hashnode.dev/chartjs-and-javascript)
 - [Upload files to Cloudinary using vanilla JS](https://jaspalscodes.hashnode.dev/upload-files-to-cloudinary-using-vanilla-js)
