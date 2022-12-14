@@ -2,7 +2,7 @@
 
 ---
 
-![Twitter Follow](https://img.shields.io/twitter/follow/jaspalscodes?style=social)
+![Twitter Follow](https://img.shields.io/twitter/follow/Jaspals_ca?style=social)
 
 ---
 
